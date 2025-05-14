@@ -86,7 +86,7 @@ const Footer: React.FC = () => {
                 <Send size={20} />
               </div>
               <div>
-                <p className="font-medium">contact@bnbdigitalcard.com</p>
+                <p className="font-medium">support@cardgold.us</p>
                 <p className="text-gray-400 text-sm">24/7 Support</p>
               </div>
             </div>
